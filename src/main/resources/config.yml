@@ -1,0 +1,5 @@
+# Config file for OBMetaProducer
+#
+
+MetaFile:
+  Filename: 'plugins/OBMetaProducer/OBMetaProducer.dat'
