@@ -1,4 +1,4 @@
-# OBMetaProducerBungee
+# OBMetaProducerVelocity
 
 Minecraft Velocity plugin to gather meta data for use by external tools, utilities and monitoring.
 Detects player server and disconnect events and writes these to a file.
